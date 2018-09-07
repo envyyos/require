@@ -21,3 +21,4 @@ gif
 png
 tiff
 mov
+msi
